@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is A890-0039
+
+ Directory of C:\1_JenkinsWork\Javaproject1
+
+08/03/17  07:32    <DIR>          .
+08/03/17  07:32    <DIR>          ..
+08/03/17  07:11               676 Hello.class
+07/26/17  07:58               166 Hello.java
+08/03/17  07:32                 0 test1.txt
+               3 File(s)            842 bytes
+               2 Dir(s)  283,083,808,768 bytes free
